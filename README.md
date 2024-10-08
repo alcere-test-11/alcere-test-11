@@ -1,3 +1,7 @@
+- [Google](wwww.google.com)
+- [GitHub](www.github.com)
+
+
 <div align="center">
 
 ## 🌐 Socials:
